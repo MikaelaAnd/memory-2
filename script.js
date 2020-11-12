@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
             img: 'images/img5.png'
         },
         {
-            names: 'erika',
+            name: 'erika',
             img: 'images/img6.png'
         },
         {
